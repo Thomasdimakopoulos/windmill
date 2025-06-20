@@ -7,8 +7,9 @@ CaddyfileRemoteMalo
 *.swp
 **/.idea/
 .direnv
-.vscode
 .dev-docker-wrapper*
 backend/.minio-data
 .aider*
 !.aiderignore
+config.bat
+node_modules
