@@ -11,5 +11,5 @@ CaddyfileRemoteMalo
 backend/.minio-data
 .aider*
 !.aiderignore
-config.bat
 node_modules
+config.bat
